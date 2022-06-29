@@ -1,2 +1,2 @@
 # kevo
-Hello worl microverse project
+Hello world microverse project
