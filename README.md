@@ -2,7 +2,7 @@
 
 # Hello MIcroverse project
 
-> In this project, I  set up a "Hello world" repository. No complex coding was required for this exercise. The goal was to master all of the tools and best practices learned about in previous steps. Which I will be using  in all Microverse projects and most likely in my future job as well, so it is important to know them!.
+> This is the first microverse project. I created a "Hello world" repository for this project. simple code was sufficient because mainly, the objective was to develop an authority in all of the tools and best practices that were covered in previous stages. Which are essential  because I'll be using them in all of my Microverse projects and perhaps even at my next job.
 
 
 ## Built With
@@ -25,8 +25,6 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
